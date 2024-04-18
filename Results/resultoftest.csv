@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1713294455644,301,01_Launch blazedemo,200,OK,Thread Group 1-4,text,true,,2278,445,5,5,https://blazedemo.com/,300,0,43
+1713294455640,301,01_Launch blazedemo,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,2278,445,5,5,null,300,8,43
+1713294455404,560,01_Launch blazedemo,200,OK,Thread Group 1-3,text,true,,2406,445,5,5,https://blazedemo.com/,560,0,230
+1713294455399,560,01_Launch blazedemo,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,2406,445,5,5,null,560,6,230
+1713294455158,893,01_Launch blazedemo,200,OK,Thread Group 1-1,text,true,,2293,445,6,6,https://blazedemo.com/,891,0,474
+1713294455010,893,01_Launch blazedemo,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,2293,445,6,6,null,891,144,474
+1713294455950,246,03_ Find Flights,200,OK,Thread Group 1-4,text,true,,2387,626,6,6,https://blazedemo.com/reserve.php,245,0,0
+1713294455950,246,03_ Find Flights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,2387,626,6,6,null,245,2,0
+1713294455965,286,03_ Find Flights,200,OK,Thread Group 1-3,text,true,,2297,626,7,7,https://blazedemo.com/reserve.php,286,0,0
+1713294455965,286,03_ Find Flights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,2297,626,7,7,null,286,2,0
+1713294456017,306,01_Launch blazedemo,200,OK,Thread Group 1-6,text,true,,2250,445,7,7,https://blazedemo.com/,306,0,54
+1713294456016,306,01_Launch blazedemo,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,2250,445,7,7,null,306,2,54
+1713294455216,1191,01_Launch blazedemo,200,OK,Thread Group 1-2,text,true,,2405,445,7,7,https://blazedemo.com/,1190,0,427
+1713294455214,1191,01_Launch blazedemo,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,2405,445,7,7,null,1190,3,427
+1713294455821,671,01_Launch blazedemo,200,OK,Thread Group 1-5,text,true,,2223,445,8,8,https://blazedemo.com/,670,0,54
+1713294455819,671,01_Launch blazedemo,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,2223,445,8,8,null,670,2,54
+1713294456205,289,01_Launch blazedemo,200,OK,Thread Group 1-7,text,true,,2274,445,8,8,https://blazedemo.com/,289,0,48
+1713294456203,289,01_Launch blazedemo,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,2274,445,8,8,null,289,3,48
+1713294456253,244,04_Choose Flight,200,OK,Thread Group 1-3,text,true,,2563,681,8,8,https://blazedemo.com/purchase.php,243,0,0
+1713294456253,244,04_Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,2563,681,8,8,null,243,1,0
+1713294456053,453,03_ Find Flights,200,OK,Thread Group 1-1,text,true,,2402,626,8,8,https://blazedemo.com/reserve.php,453,0,0
+1713294456052,453,03_ Find Flights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,2402,626,8,8,null,453,2,0
+1713294456409,284,03_ Find Flights,200,OK,Thread Group 1-2,text,true,,2372,626,9,9,https://blazedemo.com/reserve.php,283,0,0
+1713294456409,284,03_ Find Flights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,2372,626,9,9,null,283,2,0
+1713294456493,259,03_ Find Flights,200,OK,Thread Group 1-5,text,true,,2478,626,9,9,https://blazedemo.com/reserve.php,258,0,0
+1713294456493,259,03_ Find Flights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,2478,626,9,9,null,258,1,0
+1713294456507,280,04_Choose Flight,200,OK,Thread Group 1-1,text,true,,2444,681,9,9,https://blazedemo.com/purchase.php,276,0,0
+1713294456507,280,04_Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,2444,681,9,9,null,276,0,0
+1713294456696,254,04_Choose Flight,200,OK,Thread Group 1-2,text,true,,2683,681,10,10,https://blazedemo.com/purchase.php,253,0,0
+1713294456695,254,04_Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,2683,681,10,10,null,253,2,0
+1713294456754,259,04_Choose Flight,200,OK,Thread Group 1-5,text,true,,2642,681,10,10,https://blazedemo.com/purchase.php,258,0,0
+1713294456753,259,04_Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,2642,681,10,10,null,258,1,0
+1713294456788,263,05_Fill Passenger details,200,OK,Thread Group 1-1,text,true,,2414,775,10,10,https://blazedemo.com/confirmation.php,263,0,0
+1713294456787,263,05_Fill Passenger details,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,2414,775,10,10,null,263,3,0
+1713294456199,877,04_Choose Flight,200,OK,Thread Group 1-4,text,true,,2648,681,9,9,https://blazedemo.com/purchase.php,870,0,0
+1713294456198,877,04_Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,2648,681,9,9,null,870,2,0
+1713294456416,763,01_Launch blazedemo,200,OK,Thread Group 1-8,text,true,,2216,445,9,9,https://blazedemo.com/,762,0,55
+1713294456414,763,01_Launch blazedemo,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,2216,445,9,9,null,762,4,55
+1713294457014,309,05_Fill Passenger details,200,OK,Thread Group 1-5,text,true,,2388,775,9,9,https://blazedemo.com/confirmation.php,308,0,0
+1713294457014,309,05_Fill Passenger details,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,2388,775,9,9,null,308,2,0
+1713294457078,269,05_Fill Passenger details,200,OK,Thread Group 1-4,text,true,,2341,775,8,8,https://blazedemo.com/confirmation.php,268,0,0
+1713294457077,269,05_Fill Passenger details,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,2341,775,8,8,null,268,2,0
+1713294457182,642,03_ Find Flights,200,OK,Thread Group 1-8,text,true,,2276,626,7,7,https://blazedemo.com/reserve.php,641,0,0
+1713294457181,642,03_ Find Flights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,2276,626,7,7,null,641,2,0
+1713294457826,234,04_Choose Flight,200,OK,Thread Group 1-8,text,true,,2608,681,7,7,https://blazedemo.com/purchase.php,233,0,0
+1713294457825,234,04_Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,2608,681,7,7,null,233,2,0
+1713294456324,2246,03_ Find Flights,200,OK,Thread Group 1-6,text,true,,2353,626,7,7,https://blazedemo.com/reserve.php,2246,0,0
+1713294456324,2246,03_ Find Flights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,2353,626,7,7,null,2246,1,0
+1713294456605,2377,01_Launch blazedemo,200,OK,Thread Group 1-9,text,true,,2365,445,7,7,https://blazedemo.com/,2377,0,50
+1713294456603,2377,01_Launch blazedemo,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,2365,445,7,7,null,2377,3,50
+1713294456809,2293,01_Launch blazedemo,200,OK,Thread Group 1-10,text,true,,2387,445,7,7,https://blazedemo.com/,2292,0,41
+1713294456808,2293,01_Launch blazedemo,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,2387,445,7,7,null,2292,2,41
+1713294459104,298,03_ Find Flights,200,OK,Thread Group 1-10,text,true,,2401,626,7,7,https://blazedemo.com/reserve.php,297,0,45
+1713294459103,298,03_ Find Flights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,2401,626,7,7,null,297,2,45
+1713294459404,129,04_Choose Flight,429,Too Many Requests,Thread Group 1-10,text,false,Test failed: text expected to contain /Your flight from TLV to SFO has been reserved./,212,681,7,7,https://blazedemo.com/purchase.php,129,0,0
+1713294459403,129,04_Choose Flight,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-10,,false,,212,681,7,7,null,129,4,0
+1713294458062,1587,05_Fill Passenger details,200,OK,Thread Group 1-8,text,true,,2349,775,7,7,https://blazedemo.com/confirmation.php,1586,0,0
+1713294458061,1587,05_Fill Passenger details,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,2349,775,7,7,null,1586,2,0
+1713294459537,788,05_Fill Passenger details,200,OK,Thread Group 1-10,text,true,,2474,775,6,6,https://blazedemo.com/confirmation.php,787,0,0
+1713294459536,788,05_Fill Passenger details,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,2474,775,6,6,null,787,2,0
+1713294458572,1841,04_Choose Flight,200,OK,Thread Group 1-6,text,true,,2626,681,5,5,https://blazedemo.com/purchase.php,1840,0,54
+1713294458572,1841,04_Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,2626,681,5,5,null,1840,1,54
+1713294456498,3958,05_Fill Passenger details,200,OK,Thread Group 1-3,text,true,,2370,775,5,5,https://blazedemo.com/confirmation.php,3957,0,0
+1713294456498,3958,05_Fill Passenger details,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,2370,775,5,5,null,3957,1,0
+1713294460414,279,05_Fill Passenger details,200,OK,Thread Group 1-6,text,true,,2398,775,4,4,https://blazedemo.com/confirmation.php,278,0,0
+1713294460414,279,05_Fill Passenger details,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,2398,775,4,4,null,278,2,0
+1713294456496,4215,03_ Find Flights,200,OK,Thread Group 1-7,text,true,,2463,626,3,3,https://blazedemo.com/reserve.php,4215,0,0
+1713294456496,4215,03_ Find Flights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,2463,626,3,3,null,4215,2,0
+1713294460714,313,04_Choose Flight,200,OK,Thread Group 1-7,text,true,,2506,681,3,3,https://blazedemo.com/purchase.php,312,0,51
+1713294460713,313,04_Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,2506,681,3,3,null,312,2,51
+1713294456952,4347,05_Fill Passenger details,200,OK,Thread Group 1-2,text,true,,2306,775,3,3,https://blazedemo.com/confirmation.php,4346,0,0
+1713294456951,4347,05_Fill Passenger details,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,2306,775,3,3,null,4346,2,0
+1713294458984,3283,03_ Find Flights,200,OK,Thread Group 1-9,text,true,,2374,626,2,2,https://blazedemo.com/reserve.php,3282,0,52
+1713294458984,3283,03_ Find Flights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,2374,626,2,2,null,3282,1,52
+1713294461028,3396,05_Fill Passenger details,200,OK,Thread Group 1-7,text,true,,2331,775,2,2,https://blazedemo.com/confirmation.php,3396,0,0
+1713294461028,3396,05_Fill Passenger details,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,2331,775,2,2,null,3396,1,0
+1713294462269,6637,04_Choose Flight,200,OK,Thread Group 1-9,text,true,,2692,681,1,1,https://blazedemo.com/purchase.php,6636,0,46
+1713294462268,6637,04_Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,2692,681,1,1,null,6636,2,46
+1713294468908,613,05_Fill Passenger details,200,OK,Thread Group 1-9,text,true,,2370,775,1,1,https://blazedemo.com/confirmation.php,612,0,49
+1713294468907,613,05_Fill Passenger details,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,2370,775,1,1,null,612,2,49

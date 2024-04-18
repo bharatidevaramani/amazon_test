@@ -1,0 +1,78 @@
+2024-04-15 19:03:02,724 INFO o.a.j.u.JMeterUtils: Setting Locale to en_GB
+2024-04-15 19:03:02,755 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-04-15 19:03:02,755 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-04-15 19:03:02,755 INFO o.a.j.JMeter: Loading additional properties from: D:\Jmeter\apache-jmeter-5.2.1\bin\user.properties
+2024-04-15 19:03:02,771 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2024-04-15 19:03:02,771 INFO o.a.j.JMeter: Version 5.2.1
+2024-04-15 19:03:02,771 INFO o.a.j.JMeter: java.version=21.0.1
+2024-04-15 19:03:02,771 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-04-15 19:03:02,771 INFO o.a.j.JMeter: os.name=Windows 10
+2024-04-15 19:03:02,771 INFO o.a.j.JMeter: os.arch=amd64
+2024-04-15 19:03:02,771 INFO o.a.j.JMeter: os.version=10.0
+2024-04-15 19:03:02,771 INFO o.a.j.JMeter: file.encoding=UTF-8
+2024-04-15 19:03:02,771 INFO o.a.j.JMeter: java.awt.headless=true
+2024-04-15 19:03:02,771 INFO o.a.j.JMeter: Max memory     =2069889024
+2024-04-15 19:03:02,771 INFO o.a.j.JMeter: Available Processors =4
+2024-04-15 19:03:02,786 INFO o.a.j.JMeter: Default Locale=English (United Kingdom)
+2024-04-15 19:03:02,786 INFO o.a.j.JMeter: JMeter  Locale=English (United Kingdom)
+2024-04-15 19:03:02,786 INFO o.a.j.JMeter: JMeterHome=D:\Jmeter\apache-jmeter-5.2.1
+2024-04-15 19:03:02,786 INFO o.a.j.JMeter: user.dir  =D:\Jmeter\apache-jmeter-5.2.1\bin
+2024-04-15 19:03:02,786 INFO o.a.j.JMeter: PWD       =D:\Jmeter\apache-jmeter-5.2.1\bin
+2024-04-15 19:03:02,786 INFO o.a.j.JMeter: IP: 192.168.1.94 Name: DESKTOP-3CKC22A FullName: DESKTOP-3CKC22A.home
+2024-04-15 19:03:02,786 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'D:\Jmeter\apache-jmeter-5.2.1\Reports\htmlreport'
+2024-04-15 19:03:02,786 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2024-04-15 19:03:02,802 INFO o.a.j.r.d.ReportGenerator: Will only generate report from results file: D:\Jmeter\apache-jmeter-5.2.1\Results\result2.csv
+2024-04-15 19:03:02,802 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: D:\Jmeter\apache-jmeter-5.2.1\bin\reportgenerator.properties
+2024-04-15 19:03:02,802 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2024-04-15 19:03:02,802 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2024-04-15 19:03:02,817 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2024-04-15 19:03:02,817 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2024-04-15 19:03:02,817 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2024-04-15 19:03:02,817 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2024-04-15 19:03:02,817 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2024-04-15 19:03:02,817 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2024-04-15 19:03:02,817 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2024-04-15 19:03:02,833 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2024-04-15 19:03:03,192 ERROR o.a.j.JMeter: An error occurred: 
+java.lang.ExceptionInInitializerError: null
+	at com.thoughtworks.xstream.XStream.setupConverters(XStream.java:990) ~[xstream-1.4.11.jar:1.4.11]
+	at com.thoughtworks.xstream.XStream.<init>(XStream.java:593) ~[xstream-1.4.11.jar:1.4.11]
+	at com.thoughtworks.xstream.XStream.<init>(XStream.java:515) ~[xstream-1.4.11.jar:1.4.11]
+	at com.thoughtworks.xstream.XStream.<init>(XStream.java:484) ~[xstream-1.4.11.jar:1.4.11]
+	at com.thoughtworks.xstream.XStream.<init>(XStream.java:430) ~[xstream-1.4.11.jar:1.4.11]
+	at com.thoughtworks.xstream.XStream.<init>(XStream.java:383) ~[xstream-1.4.11.jar:1.4.11]
+	at org.apache.jmeter.save.SaveService$XStreamWrapper.<init>(SaveService.java:83) ~[ApacheJMeter_core.jar:5.2.1]
+	at org.apache.jmeter.save.SaveService$XStreamWrapper.<init>(SaveService.java:81) ~[ApacheJMeter_core.jar:5.2.1]
+	at org.apache.jmeter.save.SaveService.<clinit>(SaveService.java:114) ~[ApacheJMeter_core.jar:5.2.1]
+	at org.apache.jmeter.report.core.CsvSampleReader.<clinit>(CsvSampleReader.java:56) ~[ApacheJMeter_core.jar:5.2.1]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.<init>(CsvFileSampleSource.java:112) ~[ApacheJMeter_core.jar:5.2.1]
+	at org.apache.jmeter.report.dashboard.ReportGenerator.generate(ReportGenerator.java:208) ~[ApacheJMeter_core.jar:5.2.1]
+	at org.apache.jmeter.JMeter.start(JMeter.java:543) [ApacheJMeter_core.jar:5.2.1]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:253) [ApacheJMeter.jar:5.2.1]
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make field private final java.util.Comparator java.util.TreeMap.comparator accessible: module java.base does not "opens java.util" to unnamed module @15761df8
+	at java.lang.reflect.AccessibleObject.throwInaccessibleObjectException(AccessibleObject.java:391) ~[?:?]
+	at java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:367) ~[?:?]
+	at java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:315) ~[?:?]
+	at java.lang.reflect.Field.checkCanSetAccessible(Field.java:183) ~[?:?]
+	at java.lang.reflect.Field.setAccessible(Field.java:177) ~[?:?]
+	at com.thoughtworks.xstream.core.util.Fields.locate(Fields.java:40) ~[xstream-1.4.11.jar:1.4.11]
+	at com.thoughtworks.xstream.converters.collections.TreeMapConverter.<clinit>(TreeMapConverter.java:50) ~[xstream-1.4.11.jar:1.4.11]
+	... 16 more

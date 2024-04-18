@@ -1,0 +1,15 @@
+﻿Name,address,city,state,zipCode,cardType,cardNumber,cardMonth,cardYear,nameOnCard
+abc,123,South,NY,123,visa,123456,12,2024,John
+xyz,123,South,NY,123,visa,123456,12,2024,John
+def,123,South,NY,123,visa,123456,12,2024,John
+wxy,123,South,NY,123,visa,123456,12,2024,John
+rst,123,South,NY,123,visa,123456,12,2024,John
+pqr,123,South,NY,123,visa,123456,12,2024,John
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

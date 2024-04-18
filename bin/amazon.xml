@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+
+
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="contile.services.mozilla.com:443" rc="" rm="An established connection was aborted by the software in your host machine&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="2674" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT contile.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.amazon.co.uk:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.amazon.co.uk:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="An established connection was aborted by the software in your host machine&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="2674" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="blazemeter.datapipe.prodperfect.com:443" rc="" rm="An established connection was aborted by the software in your host machine&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="2674" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT blazemeter.datapipe.prodperfect.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="safebrowsing.googleapis.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT safebrowsing.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="An established connection was aborted by the software in your host machine&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="2595" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="classify-client.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT classify-client.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1198" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+
+
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="firefox.settings.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1368" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-3CKC22A">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+
+
+
+</testResults>

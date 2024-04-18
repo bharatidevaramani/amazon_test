@@ -1,0 +1,46 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1713203857197,643,01_Accessing wikipedia,200,OK,01_Wikipedia 1-1,text,true,,79457,238,2,2,https://www.wikipedia.org/,76,0,54
+1713203857197,79,01_Accessing wikipedia-0,301,Moved Permanently,01_Wikipedia 1-1,,true,,173,119,2,2,http://www.wikipedia.org/,76,0,54
+1713203857279,561,01_Accessing wikipedia-1,200,OK,01_Wikipedia 1-1,text,true,,79284,119,2,2,https://www.wikipedia.org/,519,0,485
+1713203857505,341,01_Accessing wikipedia,200,OK,01_Wikipedia 1-2,text,true,,79457,238,2,2,https://www.wikipedia.org/,30,0,15
+1713203857505,30,01_Accessing wikipedia-0,301,Moved Permanently,01_Wikipedia 1-2,,true,,173,119,2,2,http://www.wikipedia.org/,30,0,15
+1713203857536,310,01_Accessing wikipedia-1,200,OK,01_Wikipedia 1-2,text,true,,79284,119,2,2,https://www.wikipedia.org/,262,0,229
+1713203857843,170,02_Search to wikipedia,200,OK,01_Wikipedia 1-1,text,true,,100905,272,3,3,https://en.wikipedia.org/wiki/Apache_JMeter,38,0,24
+1713203857843,38,02_Search to wikipedia-0,301,Moved Permanently,01_Wikipedia 1-1,,true,,190,136,3,3,http://en.wikipedia.org/wiki/Apache_JMeter,38,0,24
+1713203857882,131,02_Search to wikipedia-1,200,OK,01_Wikipedia 1-1,text,true,,100715,136,3,3,https://en.wikipedia.org/wiki/Apache_JMeter,70,0,49
+1713203857848,170,02_Search to wikipedia,200,OK,01_Wikipedia 1-2,text,true,,100905,272,3,3,https://en.wikipedia.org/wiki/Apache_JMeter,33,0,19
+1713203857848,33,02_Search to wikipedia-0,301,Moved Permanently,01_Wikipedia 1-2,,true,,190,136,3,3,http://en.wikipedia.org/wiki/Apache_JMeter,33,0,19
+1713203857882,136,02_Search to wikipedia-1,200,OK,01_Wikipedia 1-2,text,true,,100715,136,3,3,https://en.wikipedia.org/wiki/Apache_JMeter,96,0,62
+1713203857909,163,01_Accessing wikipedia,200,OK,01_Wikipedia 1-3,text,true,,79457,238,3,3,https://www.wikipedia.org/,40,0,23
+1713203857909,40,01_Accessing wikipedia-0,301,Moved Permanently,01_Wikipedia 1-3,,true,,173,119,3,3,http://www.wikipedia.org/,40,0,23
+1713203857950,122,01_Accessing wikipedia-1,200,OK,01_Wikipedia 1-3,text,true,,79284,119,3,3,https://www.wikipedia.org/,89,0,64
+1713203858014,80,03_Login to wiki,200,OK,01_Wikipedia 1-1,text,true,,79457,238,3,3,https://www.wikipedia.org/,36,0,21
+1713203858014,36,03_Login to wiki-0,301,Moved Permanently,01_Wikipedia 1-1,,true,,173,119,3,3,http://www.wikipedia.org/,36,0,21
+1713203858051,43,03_Login to wiki-1,200,OK,01_Wikipedia 1-1,text,true,,79284,119,3,3,https://www.wikipedia.org/,22,0,0
+1713203858019,78,03_Login to wiki,200,OK,01_Wikipedia 1-2,text,true,,79457,238,3,3,https://www.wikipedia.org/,32,0,16
+1713203858019,32,03_Login to wiki-0,301,Moved Permanently,01_Wikipedia 1-2,,true,,173,119,3,3,http://www.wikipedia.org/,32,0,16
+1713203858051,46,03_Login to wiki-1,200,OK,01_Wikipedia 1-2,text,true,,79284,119,3,3,https://www.wikipedia.org/,32,0,0
+1713203858074,133,02_Search to wikipedia,200,OK,01_Wikipedia 1-3,text,true,,100905,272,1,1,https://en.wikipedia.org/wiki/Apache_JMeter,36,0,22
+1713203858074,36,02_Search to wikipedia-0,301,Moved Permanently,01_Wikipedia 1-3,,true,,190,136,1,1,http://en.wikipedia.org/wiki/Apache_JMeter,36,0,22
+1713203858111,96,02_Search to wikipedia-1,200,OK,01_Wikipedia 1-3,text,true,,100715,136,1,1,https://en.wikipedia.org/wiki/Apache_JMeter,65,0,47
+1713203858208,63,03_Login to wiki,200,OK,01_Wikipedia 1-3,text,true,,79457,238,2,2,https://www.wikipedia.org/,30,0,16
+1713203858208,30,03_Login to wiki-0,301,Moved Permanently,01_Wikipedia 1-3,,true,,173,119,2,2,http://www.wikipedia.org/,30,0,16
+1713203858239,32,03_Login to wiki-1,200,OK,01_Wikipedia 1-3,text,true,,79284,119,2,2,https://www.wikipedia.org/,18,0,0
+1713203858244,143,01_Accessing wikipedia,200,OK,01_Wikipedia 1-4,text,true,,79457,238,1,1,https://www.wikipedia.org/,36,0,18
+1713203858244,36,01_Accessing wikipedia-0,301,Moved Permanently,01_Wikipedia 1-4,,true,,173,119,1,1,http://www.wikipedia.org/,36,0,18
+1713203858281,106,01_Accessing wikipedia-1,200,OK,01_Wikipedia 1-4,text,true,,79284,119,1,1,https://www.wikipedia.org/,70,0,43
+1713203858389,147,02_Search to wikipedia,200,OK,01_Wikipedia 1-4,text,true,,100905,272,1,1,https://en.wikipedia.org/wiki/Apache_JMeter,29,0,14
+1713203858389,29,02_Search to wikipedia-0,301,Moved Permanently,01_Wikipedia 1-4,,true,,190,136,1,1,http://en.wikipedia.org/wiki/Apache_JMeter,29,0,14
+1713203858421,115,02_Search to wikipedia-1,200,OK,01_Wikipedia 1-4,text,true,,100715,136,1,1,https://en.wikipedia.org/wiki/Apache_JMeter,70,0,50
+1713203858536,68,03_Login to wiki,200,OK,01_Wikipedia 1-4,text,true,,79457,238,1,1,https://www.wikipedia.org/,29,0,15
+1713203858536,29,03_Login to wiki-0,301,Moved Permanently,01_Wikipedia 1-4,,true,,173,119,1,1,http://www.wikipedia.org/,29,0,15
+1713203858565,39,03_Login to wiki-1,200,OK,01_Wikipedia 1-4,text,true,,79284,119,1,1,https://www.wikipedia.org/,18,0,0
+1713203858635,124,01_Accessing wikipedia,200,OK,01_Wikipedia 1-5,text,true,,79457,238,1,1,https://www.wikipedia.org/,29,0,14
+1713203858635,29,01_Accessing wikipedia-0,301,Moved Permanently,01_Wikipedia 1-5,,true,,173,119,1,1,http://www.wikipedia.org/,29,0,14
+1713203858665,94,01_Accessing wikipedia-1,200,OK,01_Wikipedia 1-5,text,true,,79284,119,1,1,https://www.wikipedia.org/,63,0,44
+1713203858761,168,02_Search to wikipedia,200,OK,01_Wikipedia 1-5,text,true,,100905,272,1,1,https://en.wikipedia.org/wiki/Apache_JMeter,31,0,15
+1713203858761,31,02_Search to wikipedia-0,301,Moved Permanently,01_Wikipedia 1-5,,true,,190,136,1,1,http://en.wikipedia.org/wiki/Apache_JMeter,31,0,15
+1713203858793,136,02_Search to wikipedia-1,200,OK,01_Wikipedia 1-5,text,true,,100715,136,1,1,https://en.wikipedia.org/wiki/Apache_JMeter,109,0,63
+1713203858929,63,03_Login to wiki,200,OK,01_Wikipedia 1-5,text,true,,79457,238,1,1,https://www.wikipedia.org/,29,0,14
+1713203858929,29,03_Login to wiki-0,301,Moved Permanently,01_Wikipedia 1-5,,true,,173,119,1,1,http://www.wikipedia.org/,29,0,14
+1713203858958,34,03_Login to wiki-1,200,OK,01_Wikipedia 1-5,text,true,,79284,119,1,1,https://www.wikipedia.org/,19,0,0
